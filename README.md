@@ -1,3 +1,4 @@
 # network_scanner
 
-install scapy inorder to run the code
+install scapy and mac vendor lookup inorder to run the code
+you can check requirement.txt
